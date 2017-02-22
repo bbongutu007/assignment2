@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  padding-bottom: 20px;
+}
+
+form {
+
+  width: 40%;
+  margin: 0 auto;
+}
+
+select {
+  width: 100%;
+}
+
+label {
+  display: inline-block;
+  min-width: 90px;
+}
+
+h1 {
+  padding: 10px 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+body {
+  background-image: url(http://www.trbimg.com/img-56da4078/turbine/os-spacex-set-for-another-try-at-satellite-launch-tonight-20160304);
+
+}
